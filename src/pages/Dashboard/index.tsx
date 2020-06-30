@@ -40,7 +40,7 @@ const Dashboard: React.FunctionComponent = () => {
       setNewRepo('');
       setInputError('');
     } catch (err) {
-      setInputError('Erro na busca por esse repositório');
+      setInputError('Erro ao buscar por esse repositório');
     }
   }
 
