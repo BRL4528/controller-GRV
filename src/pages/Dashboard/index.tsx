@@ -62,7 +62,7 @@ const Dashboard: React.FunctionComponent = () => {
 
       <Repositories>
         {repositories.map(repository => (
-          <a key={repository.full_name} href="teste">
+          <a key={repository.full_name} href="nome">
             <img
               src={repository.owner.avatar_url}
               alt={repository.owner.login}
