@@ -6,7 +6,7 @@ import React from 'react';
 
 // import api from '../../services/api';
 
-import logoImg from '../../assets/logo1.svg';
+import logoImg from '../../assets/logo2.svg';
 // eslint-disable-next-line import/no-unresolved
 
 import { Title, Form, Repositories } from './styles';
